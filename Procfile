@@ -1,1 +1,1 @@
-web: target/universal/stage/bin/play-getting-started -Dhttp.port=8080
+web: target/universal/stage/bin/play-getting-started -Dhttp.port=${PORT}
